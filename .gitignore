@@ -1,0 +1,12 @@
+.classpath
+.idea
+.project
+*.iml
+.settings
+bin/
+out/
+target/
+.metadata/
+RemoteSystemsTempFiles/
+.project
+build/
